@@ -1,0 +1,11 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="../сортировка2/сортировка2.vcxproj" Id="4b1d25ed-0818-4c74-bb80-aaf19cb611c4" />
+  <Project Path="../сортировка3/сортировка3.vcxproj" Id="5f21384a-48f4-4491-bd84-a84de38c9383" />
+  <Project Path="../сортировка4/сортировка4.vcxproj" Id="4d34c1d3-bbd5-42bb-b037-e4042b3df08c" />
+  <Project Path="../сортировки/сортировки.vcxproj" Id="e6a49f7c-a7d6-4043-955b-ec1e4c3b7999" />
+  <Project Path="tests_sem1.vcxproj" Id="8f9e3854-69a1-4016-a483-3bf30f3e67ee" />
+</Solution>
